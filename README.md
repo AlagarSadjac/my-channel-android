@@ -13,8 +13,6 @@ MyChannel App என்பது எனது YouTube சேனலுக்க�
 
 [![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/my-channel-android/releases/download/V1.0.0/app-debug.apk)
 
-> 💡 **நேரடி லிங்க்:** [Click here to download MyChannel APK](https://github.com/AlagarSadjac/MyChannel/releases/latest)
-
 ---
 
 ## 📱 About The App
