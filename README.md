@@ -54,8 +54,8 @@ MyChannel App என்பது எனது YouTube சேனலுக்க�
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/77340a4c-cb8d-46f5-bb22-4b91" width="22%" />
-  <img src="https://github.com/user-attachments/assets/d6f0407d-4182-4592-a90f-457f" width="22%" />
+  <img src="https://github.com/user-attachments/assets/77340a4c-cb8d-46f5-bb22-4b91d379956e" width="22%" />
+  <img src="https://github.com/user-attachments/assets/d6f0407d-4182-4592-a90f-457f7c1bb8a6" width="22%" />
   <img src="https://github.com/user-attachments/assets/a65e350d-fe85-40bc-86d2-b437" width="22%" />
   <img src="https://github.com/user-attachments/assets/4c303dc7-53f4-4e2e-a844-3ffc" width="22%" />
 </p>
