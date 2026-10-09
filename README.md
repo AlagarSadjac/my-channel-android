@@ -51,4 +51,7 @@ Subscribers மற்றும் viewers எளிதாக songs access செ
 If you like this project, please ⭐ the repository.
 Your support means a lot ❤️
 
-Download APP (https://github.com/AlagarSadjac/MyChannel/releases/download/V1.0.0/app-debug.apk)
+## 📲 Download the App
+You can download the latest APK from the link below
+
+[Download APP](https://github.com/AlagarSadjac/MyChannel/releases/download/V1.0.0/app-debug.apk)
