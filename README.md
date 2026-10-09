@@ -4,33 +4,33 @@
 [![Java](https://img.shields.io/badge/Language-Java-orange?logo=java)](https://www.java.com/)
 [![Release](https://img.shields.io/badge/Release-v1.0.0-blue)](https://github.com/AlagarSadjac/MyChannel/releases/latest)
 
-MyChannel App என்பது எனது YouTube சேனலுக்காக பிரத்யேகமாக உருவாக்கப்பட்ட ஒரு நேட்டிவ் Android Application ஆகும். இதில் பதிவேற்றப்படும் பாடல்கள் மற்றும் வீடியோக்களை பயனர்கள் எளிதாக ஒரே இடத்தில் பார்த்து ரசிக்க முடியும்.
+MyChannel App is a dedicated native Android application built specifically for my YouTube channel. It provides users with a clean, centralized platform to seamlessly stream uploaded songs and videos.
 
 ---
 
 ## 📥 Download the App
-கீழே உள்ள பட்டனை கிளிக் செய்து லேட்டஸ்ட் APK ஃபைலை நேரடியாக டவுன்லோட் செய்து கொள்ளலாம்:
+Click the badge below to download the latest APK directly to your Android device:
 
 [![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/my-channel-android/releases/download/V1.0.0/app-debug.apk)
 
 ---
 
 ## 📱 About The App
-இந்த ஆப் மூலம் சேனலில் அப்லோட் செய்யப்படும் அனைத்து வீடியோக்களையும் பார்க்கலாம்:
+This app allows users to view all videos and musical playlists uploaded to the channel in one place, featuring:
 * ❤️ **Love Songs**
 * 🇰🇷 **Korean Songs**
 * 🎶 **Melody & Trending Songs**
 
-எளிய UI வடிவமைப்பு, வேகமான செயல்பாடு (smooth performance) மற்றும் பயனர் நட்பு அமைப்போடு (user-friendly design) உருவாக்கப்பட்டுள்ளது.
+Engineered with a minimalist UI, smooth performance, and an intuitive user-friendly design.
 
 ---
 
 ## ✨ Features
-* 📺 **Direct YouTube Access:** யூடியூப் வீடியோக்களை நேரடியாக ஆப்பிற்குள்ளேயே காணும் வசதி.
-* 🔥 **Latest Uploads Update:** புதிய வீடியோக்கள் குறித்த உடனுக்குடனான பார்வை.
-* 🎧 **Curated Collections:** லவ் சாங்ஸ் மற்றும் கொரியன் சாங்ஸ் தனித்தனித் தொகுப்புகள்.
-* ⚡ **Fast & Lightweight:** விரைவாக லோட் ஆகும் செயல்திறன்.
-* 📱 **Clean UI:** எளிமையான மற்றும் நேர்த்தியான இடைமுகம்.
+* 📺 **Direct YouTube Access:** Stream channel videos directly within the app without interruptions.
+* 🔥 **Latest Uploads Update:** Quick access to the most recent channel releases.
+* 🎧 **Curated Collections:** Dedicated sections organized for Love songs and Korean hits.
+* ⚡ **Fast & Lightweight:** Optimized asset loading for instantaneous playback and navigation.
+* 📱 **Clean UI:** Clutter-free interface focused on an engaging multimedia experience.
 
 ---
 
@@ -54,28 +54,24 @@ MyChannel App என்பது எனது YouTube சேனலுக்க�
 ---
 
 ## 🚀 How To Use
-1. Download the APK ஃபைலை டவுன்லோட் செய்து இன்ஸ்டால் செய்யவும்.
-2. ஆப்பைத் திறந்து (Open App) பாடல்களைத் தேர்ந்தெடுக்கவும் (Browse Songs).
-3. விரும்பிய பாடலைத் தட்டி ரசிக்கவும் (Tap & Enjoy 🎵).
+1. Download and install the APK using the download button above.
+2. Launch the app and browse through available song collections.
+3. Tap on any playlist or video to play and enjoy 🎵.
 
 ---
 
 ## 🎯 Purpose
-சப்ஸ்கிரைபர்கள் மற்றும் பார்வையாளர்கள் பாடல்களையும் வீடியோக்களையும் எந்தவிதத் தடங்கலுமின்றி ஒரே இடத்தில் எளிதாக அணுக வேண்டும் என்பதே இந்த ஆப்பின் முதன்மை நோக்கமாகும்.
+The primary objective of this application is to deliver an exclusive, distraction-free mobile portal for subscribers and listeners to access YouTube channel content effortlessly.
 
 ---
 
 ## 🔮 Future Updates
-* 🔔 Push Notifications
-* 🎵 Category-wise Filtering
-* 🌙 Dark Mode Support
-* ❤️ Favorites / Bookmark Option
+* 🔔 Push Notifications for new video releases
+* 🎵 Category-wise Advanced Filtering
+* 🌙 Dark Mode Theme Support
+* ❤️ Favorites & Offline Bookmark Feature
 
 ---
 
 ## ⭐ Support
-இந்த ப்ராஜெக்ட் உங்களுக்குப் பிடித்திருந்தால், இந்த ரெபோசிட்டரிக்கு ஒரு **Star (⭐)** கொடுத்து ஆதரிக்கவும்!
-
-
----
-
+If you like this project and find it helpful, please consider giving this repository a **Star (⭐)**!
