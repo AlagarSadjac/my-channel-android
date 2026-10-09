@@ -1,10 +1,3 @@
-
-![Channel1](https://github.com/user-attachments/assets/77340a4c-cb8d-46f5-bb22-4b91d379956e)
-![Channel2](https://github.com/user-attachments/assets/d6f0407d-4182-4592-a90f-457f7c1bb8a6)
-![Channel3](https://github.com/user-attachments/assets/a65e350d-fe85-40bc-86d2-b437fbe2cf16)
-![Channel4](https://github.com/user-attachments/assets/4c303dc7-53f4-4e2e-a844-3ffc13f827b6)
-
-
 # 🎵 MyChannel App
 
 [![Android](https://img.shields.io/badge/Platform-Android-green?logo=android)](https://www.android.com/)
@@ -18,9 +11,7 @@ MyChannel App என்பது எனது YouTube சேனலுக்க�
 ## 📥 Download the App
 கீழே உள்ள பட்டனை கிளிக் செய்து லேட்டஸ்ட் APK ஃபைலை நேரடியாக டவுன்லோட் செய்து கொள்ளலாம்[span_6](start_span)[span_6](end_span)[span_7](start_span)[span_7](end_span):
 
-[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/MyChannel/releases/latest)
-
-> 💡 **நேரடி லிங்க்:** [Click here to download MyChannel APK](https://github.com/AlagarSadjac/MyChannel/releases/latest)
+[![Download APK](https://img.shields.io/badge/Download-APK%20(v1.0.0)-success?style=for-the-badge&logo=android)](https://github.com/AlagarSadjac/my-channel-android/releases/download/V1.0.0/app-debug.apk)
 
 ---
 
@@ -56,11 +47,9 @@ MyChannel App என்பது எனது YouTube சேனலுக்க�
 <p align="center">
   <img src="https://github.com/user-attachments/assets/77340a4c-cb8d-46f5-bb22-4b91d379956e" width="22%" />
   <img src="https://github.com/user-attachments/assets/d6f0407d-4182-4592-a90f-457f7c1bb8a6" width="22%" />
-  <img src="https://github.com/user-attachments/assets/a65e350d-fe85-40bc-86d2-b437" width="22%" />
-  <img src="https://github.com/user-attachments/assets/4c303dc7-53f4-4e2e-a844-3ffc" width="22%" />
+  <img src="https://github.com/user-attachments/assets/a65e350d-fe85-40bc-86d2-b437fbe2cf16" width="22%" />
+  <img src="https://github.com/user-attachments/assets/4c303dc7-53f4-4e2e-a844-3ffc13f827b6" />
 </p>
-
-*(குறிப்பு: நீங்கள் அப்லோட் செய்த ஸ்கிரீன்ஷாட் லிங்க்குகளின் முழு URL-ஐ மேலே உள்ள `src=""` பகுதியில் சரிபார்த்துக்கொள்ளவும்)[span_24](start_span)[span_24](end_span)*
 
 ---
 
