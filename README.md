@@ -18,7 +18,7 @@ Click the badge below to download the latest APK directly to your Android device
 ## 📱 About The App
 This app allows users to view all videos and musical playlists uploaded to the channel in one place, featuring:
 * ❤️ **Love Songs**
-* 🇰🇷 **Korean Songs**
+*  **Korean Songs**
 * 🎶 **Melody & Trending Songs**
 
 Engineered with a minimalist UI, smooth performance, and an intuitive user-friendly design.
@@ -72,6 +72,12 @@ The primary objective of this application is to deliver an exclusive, distractio
 * ❤️ Favorites & Offline Bookmark Feature
 
 ---
+
+## 👨‍💻 Developed By
+Alagarsamy — Software Developer
+
+---
+
 
 ## ⭐ Support
 If you like this project and find it helpful, please consider giving this repository a **Star (⭐)**!
